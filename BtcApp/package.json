@@ -1,0 +1,14 @@
+{
+  "name": "btc-app",
+  "version": "0.0.0",
+  "description": "BtcApp",
+  "main": "app.js",
+  "author": {
+    "name": "taylor"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  }
+}
